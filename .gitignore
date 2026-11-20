@@ -1,13 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
+.pytest_cache/
 .env
 .env.*
-data/
-outputs/
-*.db
-*.sqlite
-*.sqlite3
-*.zip
-query_images/
-.pytest_cache/
+!.env.example

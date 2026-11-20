@@ -1,0 +1,87 @@
+{
+  "query": "gallery:0000 (self excluded)",
+  "method": "texture",
+  "used_groups": [
+    "glcm",
+    "lbp"
+  ],
+  "calibration_medians": {
+    "glcm": 1.0045154046890068,
+    "lbp": 0.024190926948462824,
+    "geometry": 1.1708335899191546,
+    "contour": 1.2960808073592758,
+    "fourier": 1.32705930681001,
+    "hsv": 0.7478874159492738,
+    "moments": 1.2721247208566253,
+    "spatial": 0.71834849697473
+  },
+  "method_note": "Equal-weight GROUP distances after gallery median calibration. Lower means closer. Not calibrated similarity percentage.",
+  "evaluation_note": "No human-rated ground truth; cannot claim perceptual accuracy from these outputs.",
+  "top5": [
+    {
+      "rank": 1,
+      "image_id": "0940",
+      "distance_total": 0.18766865983579956,
+      "distance_glcm": 0.22807034753269612,
+      "distance_lbp": 0.14726697213890302,
+      "distance_geometry": 0.7531155864026199,
+      "distance_contour": 0.8791312272028754,
+      "distance_fourier": 0.9772668966960817,
+      "distance_hsv": 0.6140864459567861,
+      "distance_moments": 1.0830953039867275,
+      "distance_spatial": 0.6801193552853029
+    },
+    {
+      "rank": 2,
+      "image_id": "0946",
+      "distance_total": 0.20550602900429593,
+      "distance_glcm": 0.19627486090652888,
+      "distance_lbp": 0.21473719710206302,
+      "distance_geometry": 0.7410148738206545,
+      "distance_contour": 1.1759298008971333,
+      "distance_fourier": 1.4579478732951816,
+      "distance_hsv": 0.9768786562493369,
+      "distance_moments": 0.8525302323846409,
+      "distance_spatial": 0.9582137521013643
+    },
+    {
+      "rank": 3,
+      "image_id": "0509",
+      "distance_total": 0.23143510331606593,
+      "distance_glcm": 0.23907647689164405,
+      "distance_lbp": 0.22379372974048778,
+      "distance_geometry": 1.1723213884669261,
+      "distance_contour": 1.0020012379104886,
+      "distance_fourier": 1.1278960468282864,
+      "distance_hsv": 0.7265529959732187,
+      "distance_moments": 0.8256186255990504,
+      "distance_spatial": 0.7675586403423272
+    },
+    {
+      "rank": 4,
+      "image_id": "0644",
+      "distance_total": 0.25773179393222906,
+      "distance_glcm": 0.2709231982681254,
+      "distance_lbp": 0.24454038959633273,
+      "distance_geometry": 0.6467578282765232,
+      "distance_contour": 0.8168125446696533,
+      "distance_fourier": 0.9889992093522464,
+      "distance_hsv": 1.1439266332025908,
+      "distance_moments": 0.7064242030119182,
+      "distance_spatial": 1.1269082475249435
+    },
+    {
+      "rank": 5,
+      "image_id": "0382",
+      "distance_total": 0.2665550631706086,
+      "distance_glcm": 0.2145356916645973,
+      "distance_lbp": 0.31857443467661994,
+      "distance_geometry": 0.6922938942952043,
+      "distance_contour": 0.8957478171053652,
+      "distance_fourier": 1.1436366159646185,
+      "distance_hsv": 0.7332729252722939,
+      "distance_moments": 0.8213249093538578,
+      "distance_spatial": 0.7486304845420989
+    }
+  ]
+}

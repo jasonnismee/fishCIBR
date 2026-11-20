@@ -1,0 +1,16 @@
+{
+  "zip_entries": 2001,
+  "png_files": 2000,
+  "numbered_unique_images": 1000,
+  "exact_duplicate_pairs_with_original_names": 1000,
+  "numeric_first": "0000",
+  "numeric_last": "0999",
+  "resolutions": {
+    "(640, 320)": 1000
+  },
+  "channels": {
+    "3": 1000
+  },
+  "all_numeric_png_unique_content": true,
+  "report_discrepancy": "ZIP numbers 0000-0999; report says 0001-1000, with differing examples (e.g. 0187)."
+}

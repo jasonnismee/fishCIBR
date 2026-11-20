@@ -1,0 +1,6 @@
+﻿method,ndcg_at_5_pool,precision_at_5_rel_ge_2,human_mean_at_5,judged_pool_size
+shape,1.0,0.0,1.0,20
+texture,1.0,0.0,1.0,20
+equal,0.85393,0.0,0.8,20
+rrf,0.85393,0.0,0.8,20
+color,0.51477,0.0,0.6,20

@@ -1,0 +1,36 @@
+{
+  "total_images_in_zip": 1000,
+  "success_count": 1000,
+  "failure_count_current_run": 0,
+  "failures_current_run": [],
+  "dimensions": {
+    "glcm": 40,
+    "lbp": 59,
+    "geometry": 3,
+    "contour": 64,
+    "fourier": 16,
+    "hsv": 192,
+    "moments": 9,
+    "spatial": 288
+  },
+  "total_dimensions": 671,
+  "mask_status_counts": {
+    "ok": 1000
+  },
+  "mask_area_fraction_min": 0.270215,
+  "mask_area_fraction_max": 0.279893,
+  "per_image_seconds_median": 0.0506,
+  "elapsed_seconds_sum": 53.98,
+  "configs": {
+    "glcm": "b6512e17ab99ff0704b5",
+    "lbp": "a459a2e0bf9270c19c05",
+    "geometry": "1cfd4bab8bb05b7218a9",
+    "contour": "5844b539668622fd6709",
+    "fourier": "9c504328dcc643bbe5df",
+    "hsv": "f9e071d86b4db4c189d6",
+    "moments": "5500a3a1f6b2e1d7ddf5",
+    "spatial": "42b9c2c1ac4b6ede0dce"
+  },
+  "code_version": "step3-v1",
+  "note": "Descriptor extraction validation only; no human-perceptual retrieval evaluation."
+}
