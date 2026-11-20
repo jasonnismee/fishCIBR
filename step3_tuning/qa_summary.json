@@ -1,0 +1,8 @@
+{
+  "variants": 25,
+  "vectors": 25000,
+  "errors": 0,
+  "total_family_dimensions_over_all_variants": 3189,
+  "refeature_recompute_max_absolute_diff_0334": 0.0,
+  "baseline_blob_bytes_exact_for_0334": true
+}

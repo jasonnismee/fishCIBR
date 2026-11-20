@@ -1,0 +1,10 @@
+{
+  "original_images": 1000,
+  "processed_images_this_run": 1000,
+  "new_vectors_this_run": 17000,
+  "baseline_rows_imported": 8000,
+  "errors_current_run": [],
+  "elapsed_seconds": 128.8,
+  "variant_db": "/mnt/data/step3_tuning_full/tuning_features.db",
+  "note": "Descriptor extraction only: no human-relevance optimization performed."
+}
